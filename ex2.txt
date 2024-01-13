@@ -1,1 +1,4 @@
 hotfix
+feature
+release
+test
